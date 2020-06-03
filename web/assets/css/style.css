@@ -529,35 +529,35 @@ img {
 /* Slide Background Image */
 
 #slider .slide1 {
-    background-image: url(../img/slider/01.jpg);
+    background-image: url(../img/slider/1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 
 #slider .slide2 {
-    background-image: url(../img/slider/02.jpg);
+    background-image: url(../img/slider/2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 
 #slider .slide3 {
-    background-image: url(../img/slider/03.jpg);
+    background-image: url(../img/slider/3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 
 #slider .slide4 {
-    background-image: url(../img/slider/04.jpg);
+    background-image: url(../img/slider/4.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 
 #slider .slide5 {
-    background-image: url(../img/slider/05.jpg);
+    background-image: url(../img/slider/5.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
