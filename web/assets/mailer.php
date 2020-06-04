@@ -22,10 +22,10 @@
 
         // Set the recipient email address.
         // FIXME: Update this to your desired email address.
-        $recipient = "mail@yourdomain.com";
+        $recipient = "info@sigmadentalinc.net";
 
         // Set the email subject.
-        if ( empty($subject) || $subject == '') {
+        if ( empty($subject) || $subject == 'Welcome') {
             $subject = "New contact from $name";
         }
 
