@@ -246,7 +246,7 @@ img {
     line-height: 70px;
     z-index: 2;
     color: #ffffff;
-    background: #003333;
+    background: #339966;
     overflow: hidden;
 }
 
@@ -529,35 +529,35 @@ img {
 /* Slide Background Image */
 
 #slider .slide1 {
-    background-image: url(../img/slider/1.jpg);
+    background-image: url(../img/slider/01.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 
 #slider .slide2 {
-    background-image: url(../img/slider/2.jpg);
+    background-image: url(../img/slider/02.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 
 #slider .slide3 {
-    background-image: url(../img/slider/3.jpg);
+    background-image: url(../img/slider/03.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 
 #slider .slide4 {
-    background-image: url(../img/slider/4.jpg);
+    background-image: url(../img/slider/04.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 
 #slider .slide5 {
-    background-image: url(../img/slider/5.jpg);
+    background-image: url(../img/slider/05.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -720,7 +720,7 @@ img {
     font-size: 36px;
     color: #fff;
     position: absolute;
-    top: 50%;
+    top: 20%;
     left: 50%;
     padding: 20px;
     transform: translate(-50%, -50%);
