@@ -582,7 +582,7 @@ img {
 @media (min-width: 1200px) {
     .about-text {
         padding-left: 40px;
-        margin-top: 80px;
+        margin-top: 0px;
     }
 }
 
@@ -658,6 +658,13 @@ img {
 
 .portfolio .mix {
     display: none;
+}
+
+.home-exper .service-box i.fa {
+    color: #339966;
+
+    margin-bottom: 25px;
+    font-size: 60px;
 }
 
 .filters {
@@ -803,7 +810,7 @@ img {
 * --------------------------------------------------------------------------------------- */
 
 .fun-facts-area {
-    background-image: url(../img/bg/fun-bg.jpg);
+    background-image: url(../img/bg/148279.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
