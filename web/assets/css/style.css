@@ -563,6 +563,13 @@ img {
     background-position: center center;
 }
 
+#slider .slide6 {
+    background-image: url(../img/slider/06.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
 
 /* ----------------------------------------------------------------------------------------
 *                               04. About area css
