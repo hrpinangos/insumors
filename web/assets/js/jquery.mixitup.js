@@ -75,13 +75,13 @@
 				containerClass: '',
 				containerClassFail: 'fail'
 			},
-
+		/*
 			load: {
-				filter: 'all',
+				filter: 'sum',
 				sort: false
 			},
 
-			/* Private Properties
+	 Private Properties
 			---------------------------------------------------------------------- */
 
 			_$body: null,
